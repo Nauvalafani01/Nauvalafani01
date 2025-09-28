@@ -1,4 +1,4 @@
-# Hi there 👋<br>
+# HI THERE (●'◡'●)<br>
 ### I’m currently learning Programming And Design
 
 
