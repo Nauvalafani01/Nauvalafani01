@@ -7,12 +7,16 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kalen_dev01) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kentangnet12@gmail.com) 
 
 # 💻 Tech Stack:
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=instagram,linux,ubuntu,html,css,js,py" />
-  </a>
-</p>
-
+<div>
+ <p align="center">
+   <a href="https://skillicons.dev">
+     <img src="https://skillicons.dev/icons?i=linux,ubuntu,html,css,js,py" />
+   </a>
+   <a href="[https://skillicons.dev](https://www.instagram.com/kalen_dev01/)">
+     <img src="https://skillicons.dev/icons?i=instagram" />
+   </a>
+ </p>
+</div>
 ---
 [![](https://visitcount.itsvg.in/api?id=KalenDev&icon=0&color=0)](https://visitcount.itsvg.in)
 # 📊 GitHub Stats:
