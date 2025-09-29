@@ -24,9 +24,12 @@
 
 <h2 align="center">📊 GitHub Stats:</h2> 
 
-![](https://github-readme-stats.vercel.app/api?username=Nauvalafani01&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)</br>
-![](https://nirzak-streak-stats.vercel.app/?user=Nauvalafani01&theme=github_dark&hide_border=false)</br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nauvalafani01&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center"> 
+
+  ![](https://github-readme-stats.vercel.app/api?username=Nauvalafani01&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true)<br/>
+  ![](https://nirzak-streak-stats.vercel.app/?user=Nauvalafani01&theme=github_dark&hide_border=false)</br>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nauvalafani01&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</p>
 
 <h2 align="center">🔝 Top Contributed Repo:</h2>
 
