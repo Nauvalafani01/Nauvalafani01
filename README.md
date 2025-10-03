@@ -2,8 +2,8 @@
 
 ![Nauval Afani](/img/Banner.png)
 
-<h3 align="center">I'm currently learning programming and working towards becoming a Cybersecurity professional.
- I'm learning HTML,CSS,Javascript and Python.</h3>
+<h4 align="center">I'm currently learning programming and working towards becoming a Cybersecurity professional.
+ I'm learning HTML,CSS,Javascript and Python.</h4>
 
 <picture>
   <source
