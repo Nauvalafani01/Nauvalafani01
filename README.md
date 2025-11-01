@@ -4,7 +4,8 @@
 
 <h4 align="center">I'm currently learning programming and working towards becoming a Cybersecurity professional.
  I'm learning HTML,CSS,Javascript and Python.</h4>
-
+ 
+<p align="center">
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -19,6 +20,7 @@
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
+</p>
 
 ## 🌐 Socials:
 
@@ -41,8 +43,18 @@
 
 <h2 align="center">📊 GitHub Stats:</h2> 
 
-![](https://github-readme-stats.vercel.app/api?username=Nauvalafani01&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Nauvalafani01&theme=tokyonight&hide_border=true)<br/>
+ <p align="center">
+   <a href="https://github-readme-stats.vercel.app">
+     <img src="https://github-readme-stats.vercel.app/api?username=Nauvalafani01&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true" />
+   </a>
+ </p>
+ 
+ <p align="center">
+  <a href="https://nirzak-streak-stats.vercel.app">
+     <img src="https://nirzak-streak-stats.vercel.app/?user=Nauvalafani01&theme=tokyonight&hide_border=true" />
+  </a>
+ </p>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nauvalafani01&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 
