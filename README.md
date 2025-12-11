@@ -22,11 +22,6 @@
 </picture>
 </p>
 
-## 🌐 Socials:
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kalen_dev01)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kentangnet12@gmail.com)
-
 <h2 align="center">💻 Tech Stack:</h2>
 
  <p align="center">
