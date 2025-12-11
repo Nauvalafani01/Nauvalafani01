@@ -43,9 +43,7 @@
 
 <h2 align="center">📊 GitHub Stats:</h2> 
 <p align="center">
-   <a href="https://github-readme-stats.vercel.app">
-     <img src="https://github-readme-stats.vercel.app/api?username=Nauvalafani01&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true" />
-   </a>
+   <img src="https://github-readme-stats.vercel.app/api?username=Nauvalafani01&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true" />
 </p>
  
 <p align="center">
@@ -55,9 +53,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github-readme-stats.vercel.app">
      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nauvalafani01&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact" />
-  </a>
  </p>
 
 <h2 align="center">🔝 Top Contributed Repo:</h2>
