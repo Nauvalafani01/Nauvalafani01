@@ -25,16 +25,16 @@
 </picture>
 </p>
 
-<h2 align="left">💻 Tech Stack:</h2>
+<h2 align="center">💻 Tech Stack:</h2>
 
- <p align="left">
+ <p align="center">
    <a href="https://skillicons.dev">
      <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,html,css,js,py" />
    </a>
  </p>
 
-<h2 align="left">✍️ Random Dev Quote</h2> 
-<p align="left">
+<h2 align="center">✍️ Random Dev Quote</h2> 
+<p align="center">
    <a href="https://quotes-github-readme.vercel.app">
      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
    </a>
