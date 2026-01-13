@@ -1,47 +1,30 @@
-<h1 align="center">Hey 👋What's Up?</h1><br>
+<h1 align="center">👋 Hi, I'm Nauvalafani01  </h1>
+<br>
 
 ![Nauval Afani](/img/Banner.png)
 
-<p align="center">I'm currently learning programming and working towards becoming a Cybersecurity professional.
- I'm learning HTML,CSS,Javascript and Python.</p>
-
- ---
-[![](https://visitcount.itsvg.in/api?id=KalenDev&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<p align="center">
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
-</p>
-
-<h2 align="center">💻 Tech Stack:</h2>
-
- <p align="center">
-   <a href="https://skillicons.dev">
-     <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,html,css,js,py" />
-   </a>
- </p>
-
-<h2 align="center">✍️ Random Dev Quote</h2> 
-<p align="center">
-   <a href="https://quotes-github-readme.vercel.app">
-     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-   </a>
- </p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=KalenDev&icon=0&color=0)](https://visitcount.itsvg.in)
+# 💫 About Me:
+-> I'm learning programming and cyber security with a focus on Python, Web, and Linux.<br> -> My goal is to become a Cyber Security professional and build a strong foundation in coding.<br> -> My mission is to grow from a beginner into a skilled Cyber Security professional through consistent learning and real projects.
+
+
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@kalen_dev01) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nauvalafani01@gmail.com) 
+
+# 💻 Tech Stack:
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Nauvalafani01&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Nauvalafani01&theme=ayu-mirage&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nauvalafani01&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+### 🎯 My mission is to grow from a beginner into a skilled Cyber Security professional through consistent learning and real projects.
 
 
 
