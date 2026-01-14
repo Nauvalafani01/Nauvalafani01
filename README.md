@@ -1,12 +1,9 @@
 <h1 align="center">👋 Hi, I'm Nauvalafani01  </h1>
-<br>
 
-![Nauval Afani](/img/Banner.png)
-
+<!--![Nauval Afani](/img/Banner.png)-->
 
 
----
-<h1 align="center"> 💫 About Me : </h1>
+<h1 align="left"> 💫 About Me : </h1>
 🎯 My mission is to grow from a beginner into a skilled Cyber Security professional through consistent leaning and real projects.<br><br>
 -> I'm learning programming and cyber security with a focus on Python, Web, and Linux.<br> -> My goal is to become a Cyber Security professional and build a strong foundation in coding.<br> -> My mission is to grow from a beginner into a skilled Cyber Security professional through consistent learning and real projects.
 
