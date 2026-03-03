@@ -1,6 +1,6 @@
 
 <h3 align="center"> 💫 About Me  </h3>
-<p align="center">My mission is to grow from a beginner into a skilled Cyber Security through consistent leaning and real projects and IT Students Studying Programming Building skills through real-world projects.</p>
+<p align="center">My mission is to grow from a beginner into a skilled Cyber Security through consistent learning, I am IT Students Studying Programming Building skills through real-world projects.</p>
 <!-- -> I'm learning programming and cyber security with a focus on Python, Web, and Linux.<br> -> My goal is to become a Cyber Security professional and build a strong foundation in coding.<br> -> My mission is to grow from a beginner into a skilled Cyber Security professional through consistent learning and real projects. -->
 
 ---
